@@ -10521,6 +10521,8 @@ a.text-dark:hover, a.text-dark:focus {
   }
   .container {
     min-width: 992px !important;
+    position: relative;
+    width: 100%;
   }
   .navbar {
     display: none;

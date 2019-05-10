@@ -1,0 +1,11 @@
+.image {
+
+position: relative;
+width: 992px !important;
+}
+h2 {
+position: absolute;
+top: 200px;
+left: 0;
+idth: 100%;
+}
